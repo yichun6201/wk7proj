@@ -1,0 +1,31 @@
+{
+   "albumTitle": "My Book",
+   "albumList": [
+      {
+         "bookname": "The Immortalists",
+         "thumbnail_image": "https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/6D6D6BC5-B659-4701-AE02-C5AF42320F67.png",
+         "author":"Chloe Benjamin",
+         "booktext":"If you were told the date of your death, how would it shape your…",
+         "completed":"50% completed",
+         "loading":"https://i.imgur.com/e7YEW0T.png"
+        
+         },
+   
+         {
+            "bookname": "Grist Mill Road",
+            "thumbnail_image": "https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/65473DAA-6929-4B78-A709-7A9817AA7FDA.png",
+            "author":"Christopher J.",
+            "booktext":"Twenty-six years ago Hannah had her eye shot out. Now she wants…",
+            "completed_r":"START READ",
+            "loading":"https://i.imgur.com/CfSApA5.png"
+         },
+   
+         {
+            "bookname": "Street Art Activity Book",
+            "thumbnail_image": "https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/065D27D8-554C-41FA-B5C6-A0D5B678AB22.png",
+            "author":"Mitchell Beazley",
+            "booktext":"Street art is colorful, vibrant, diverse and exciting.Now, you can create…",
+            "completed":"50% completed",
+            "loading":"https://i.imgur.com/e7YEW0T.png"
+         }
+]}
